@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'WisdomScript';
+    src: url('../fonts/WisdomScript.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/WisdomScript.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/WisdomScript.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/WisdomScript.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/WisdomScript.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/WisdomScript.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/Montserrat.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Montserrat.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/Montserrat.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/Montserrat.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Montserrat.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'DroidSerif';
+    src: url('../fonts/DroidSerif.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/DroidSerif.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/DroidSerif.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/DroidSerif.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/DroidSerif.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/DroidSerif.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'RobotoSlab';
+    src: url('../fonts/RobotoSlab.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/RobotoSlab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/RobotoSlab.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/RobotoSlab.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/RobotoSlab.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/RobotoSlab.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
